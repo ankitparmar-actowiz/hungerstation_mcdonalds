@@ -1,6 +1,6 @@
 import json
 
-file = open('hunderstation_mcdonalds.json', 'r')
+file = open('hungerstation_mcdonalds.json', 'r')
 jsonData = json.loads(file.read())
 
 mainList = []
